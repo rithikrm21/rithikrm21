@@ -1,14 +1,7 @@
-🔭 I recently worked on College Visitors management systems
-
-🌱 I’m currently learning Python Full Stack
-
-👨‍💻 All of my projects are available at https://elio21.dcms.site/
-
-💬 Ask me about frontend, python
-
-📫 How to reach me rmrithik1156@gmail.com
-
-⚡ Fun fact I think i'm a Professional introvert in my own world.
+👋 Hi, I’m Rithik R M!
+🎮 Content Creator at Nimma Gunavantha (YouTube: Vlogs & Gaming).
+🎓 Passionate AI researcher and Python programmer.
+💻 Exploring software development and open-source projects.
 
 <!---
 rithikrm21/rithikrm21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

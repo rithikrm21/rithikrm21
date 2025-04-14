@@ -1,6 +1,6 @@
 👋 Hi, I’m Rithik R M!
 
-🎮 Content Creator at Nimma Gunavantha (YouTube: Vlogs & Gaming).
+🎮 Content Creator (YouTube: Vlogs & Gaming).
 
 🎓 Passionate AI researcher and Python programmer.
 

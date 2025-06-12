@@ -1,8 +1,6 @@
 👋 Hi, I’m Rithik R M!
 
-🎮 Content Creator (YouTube: Vlogs & Gaming).
-
-🎓 Passionate AI researcher and Python programmer.
+🎓 Passionate AI Developer.
 
 💻 Exploring software development and open-source projects.
 
